@@ -16,7 +16,7 @@
 - **Deep Learning**: Building and training neural networks using TensorFlow and PyTorch.
 - **Web Development**: Creating dynamic web applications with React, Node.js, and Django.
 - **Network Administration**: Managing and configuring network systems.
-- **Hardware Security**: Conducted low-level audits on routers using CH341A USB programmer and SOIC8 clips to access firmware and crack password hashes with John the Ripper.&#8203;:contentReference[oaicite:0]{index=0}
+- **Hardware Security**: Conducted low-level audits on routers using CH341A USB programmer and SOIC8 clips to access firmware and crack password hashes with John the Ripper.
 
 ---
 
