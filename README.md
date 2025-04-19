@@ -25,6 +25,8 @@
 <!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,linux,mysql,tensorflow,keras" alt="Skills" />
+   <br>
+  ![Keras](https://img.shields.io/badge/Keras-FF0000?logo=keras&logoColor=white&style=for-the-badge)
 </p>
 
 ---
