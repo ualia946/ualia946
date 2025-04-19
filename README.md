@@ -1,49 +1,37 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi there, I'm Ualí!
 
-###
+🎓 I'm a Computer Engineering student at the University of Granada, currently in my third year of a four-year program. I'm passionate about software development, with a keen interest in deep learning and web technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Technologies & Tools
 
-###
+- **Languages**: Python, JavaScript, Java
+- **Web Development**: HTML, CSS, JavaScript,React
+- **Machine Learning**: TensorFlow, Keras
+- **Databases**: MySQL, PhPMyAdmin
+- **Tools**: Git, VS Code
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📂 Projects
 
-###
+Here are some projects that showcase my skills and interests:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### [Deep Learning Project](https://github.com/ualia946/deep-learning-project)
+A neural network model trained to recognize handwritten digits using the MNIST dataset. Implemented with TensorFlow and Keras.&#8203;:contentReference[oaicite:3]{index=3}
 
-###
+### [Personal Portfolio Website](https://github.com/ualia946/portfolio-website)
+:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### [University Assignment: Data Structures](https://github.com/ualia946/data-structures-assignment)
+:contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
 
-###
+## 📈 GitHub Stats
 
-<br clear="both">
+![Ualí's GitHub stats](https://github-readme-stats.vercel.app/api?username=ualia946&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 📫 Contact Me
 
-###
+- **Email**: [ualia946@example.com](mailto:ualia946@example.com)
+- **LinkedIn**: [linkedin.com/in/ualia946](https://www.linkedin.com/in/ualia946)
+
+I'm currently seeking internship opportunities in software development. Feel free to reach out!
+
+
