@@ -22,12 +22,15 @@
 
 ## 🛠️ Skills & Tools
 
-<!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,linux,mysql,tensorflow,keras" alt="Skills" />
-   <br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,linux,mysql,tensorflow" alt="Skills" />
+  <br>
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
   ![Keras](https://img.shields.io/badge/Keras-FF0000?logo=keras&logoColor=white&style=for-the-badge)
+  ![Cisco](https://img.shields.io/badge/Cisco-1ba0e2?logo=cisco&logoColor=white&style=for-the-badge)
 </p>
+
+
 
 ---
 
