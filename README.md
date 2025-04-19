@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-  <h1>Hi there, I'm Ualí 👋</h1>
+  <h1>Hello World! I'm Ivelin 👋</h1>
   <p>Computer Engineering Student | Deep Learning Enthusiast | Web Developer | Network Security Explorer</p>
 </div>
 
@@ -44,7 +44,7 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ualia946/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:ualia946@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:2004ivchoapostolov@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
