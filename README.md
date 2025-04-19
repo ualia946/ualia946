@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently in my third year of a four-year Computer Engineering program at the University of Granada.
+🎓 I'm currently in my third year of a four-year Computer Engineering program at the University of Almería.
 
 🚀 Passionate about:
 
