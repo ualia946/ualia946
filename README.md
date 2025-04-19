@@ -1,37 +1,55 @@
-# 👋 Hi there, I'm Ualí!
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <h1>Hi there, I'm Ualí 👋</h1>
+  <p>Computer Engineering Student | Deep Learning Enthusiast | Web Developer | Network Security Explorer</p>
+</div>
 
-🎓 I'm a Computer Engineering student at the University of Granada, currently in my third year of a four-year program. I'm passionate about software development, with a keen interest in deep learning and web technologies.
+---
 
-## 🛠️ Technologies & Tools
+## 🧠 About Me
 
-- **Languages**: Python, JavaScript, Java
-- **Web Development**: HTML, CSS, JavaScript,React
-- **Machine Learning**: TensorFlow, Keras
-- **Databases**: MySQL, PhPMyAdmin
-- **Tools**: Git, VS Code
+🎓 I'm currently in my third year of a four-year Computer Engineering program at the University of Granada.
 
-## 📂 Projects
+🚀 Passionate about:
 
-Here are some projects that showcase my skills and interests:
+- **Deep Learning**: Building and training neural networks using TensorFlow and PyTorch.
+- **Web Development**: Creating dynamic web applications with React, Node.js, and Django.
+- **Network Administration**: Managing and configuring network systems.
+- **Hardware Security**: Conducted low-level audits on routers using CH341A USB programmer and SOIC8 clips to access firmware and crack password hashes with John the Ripper.&#8203;:contentReference[oaicite:0]{index=0}
 
-### [Deep Learning Project](https://github.com/ualia946/deep-learning-project)
-A neural network model trained to recognize handwritten digits using the MNIST dataset. Implemented with TensorFlow and Keras.&#8203;:contentReference[oaicite:3]{index=3}
+---
 
-### [Personal Portfolio Website](https://github.com/ualia946/portfolio-website)
-:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
+## 🛠️ Skills & Tools
 
-### [University Assignment: Data Structures](https://github.com/ualia946/data-structures-assignment)
-:contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+<!-- Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,django,git,linux,docker,mysql,mongodb,tensorflow,pytorch" alt="Skills" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
 
-![Ualí's GitHub stats](https://github-readme-stats.vercel.app/api?username=ualia946&show_icons=true&theme=radical)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ualia946&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ualia946&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## 📫 Contact Me
+---
 
-- **Email**: [ualia946@example.com](mailto:ualia946@example.com)
-- **LinkedIn**: [linkedin.com/in/ualia946](https://www.linkedin.com/in/ualia946)
+## 📫 Connect with Me
 
-I'm currently seeking internship opportunities in software development. Feel free to reach out!
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ualia946/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:ualia946@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
+---
 
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ualia946&style=flat-square&color=blue" alt="Profile Views" />
+</p>
