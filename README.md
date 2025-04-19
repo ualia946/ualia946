@@ -24,7 +24,7 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,django,git,linux,docker,mysql,mongodb,tensorflow,pytorch" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,linux,mysql,tensorflow,keras" alt="Skills" />
 </p>
 
 ---
