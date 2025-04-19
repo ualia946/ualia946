@@ -20,15 +20,23 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
+<h2>🛠️ Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,linux,mysql,tensorflow" alt="Skills" />
-  <br>
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-  ![Keras](https://img.shields.io/badge/Keras-FF0000?logo=keras&logoColor=white&style=for-the-badge)
-  ![Cisco](https://img.shields.io/badge/Cisco-1ba0e2?logo=cisco&logoColor=white&style=for-the-badge)
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-1ba0e2?logo=cisco&logoColor=white&style=for-the-badge" />
 </p>
+
 
 
 
