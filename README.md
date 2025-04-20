@@ -38,7 +38,17 @@
 </p>
 
 
+## 🚀 Featured Projects
 
+Here are some of my favorite personal and academic projects:
+
+### 🐶 Dog vs Cat Classifier
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-black?logo=github&style=for-the-badge)](https://github.com/ualia946/cnn-dog-vs-cat-classifier)
+
+A deep learning project using **Convolutional Neural Networks (CNNs)** and **Transfer Learning** to classify images of cats and dogs.  
+Includes data augmentation, fine-tuning, callbacks, and a clear model evaluation pipeline.
+
+Technologies: `TensorFlow`, `Keras`, `Python`, `Jupyter Notebook`
 
 ---
 
