@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Cisco-1ba0e2?logo=cisco&logoColor=white&style=for-the-badge" />
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
