@@ -51,6 +51,15 @@ Includes data augmentation, fine-tuning, callbacks, and a clear model evaluation
 
 Technologies: `TensorFlow`, `Keras`, `Python`, `Jupyter Notebook`
 
+### 🤖 Sentiment Analysis with LSTM
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-black?logo=github&style=for-the-badge)](https://github.com/ualia946/sentiment-comments-analysis-lstm)
+
+A deep learning project using **LSTM (Long Short-Term Memory)** layers to classify text comments into **positive**, **neutral**, and **negative** sentiments.  
+This project includes data preprocessing, tokenization, embedding, model training, and deployment with a **Flask web app** for real-time sentiment analysis.
+
+Technologies: `TensorFlow`, `Keras`, `Flask`, `Python`, `NLTK`, `Jupyter Notebook`
+
+
 ---
 
 ## 📈 GitHub Stats
